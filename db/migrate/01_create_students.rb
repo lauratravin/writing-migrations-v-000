@@ -3,4 +3,6 @@ class CreateStudents < ActiveRecord::Migration[5.1]
   end
   def down
   end
+  def change
+  end  
 end
