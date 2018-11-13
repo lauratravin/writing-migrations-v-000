@@ -4,3 +4,4 @@ class  AddGradeAndBirthdateToStudents < ActiveRecord::Migration[4.2]
    add_column :students, :birthdate, :string
  end
 end
+#info https://guides.rubyonrails.org/v3.2/migrations.html
